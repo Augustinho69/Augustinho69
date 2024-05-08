@@ -6,7 +6,7 @@ Meu nome é Lucas Augusto
 - Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 📫
 
 00001118092971sp@al.educacao.sp.gov.br
 
