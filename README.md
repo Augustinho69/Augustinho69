@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu perfil!
 
-Meu nome é MLucas Augusto
+Meu nome é Lucas Augusto
 
 - Estou estudando na [Alura](https://www.alura.com.br);
 - Estou me desenvolvendo na linguagem JavaScript;
